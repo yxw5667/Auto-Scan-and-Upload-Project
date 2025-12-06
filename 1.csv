@@ -1,0 +1,21 @@
+父SKU(必填),SKU,成人,颜色,尺码,品牌,分类,中文简称,英文简称,库存,币种,成本价(必填),运费,挂号模板,海关编码,申报价(美元),分销价,毛重(克),包装尺寸,适用人群,材料,包装材料,金属,珠宝,语言,标题(必填),关键字,要点1,要点2,要点3,要点4,要点5,简介,产品图,简介图,参考网址,安全等级,产品级别
+123456,,,,,,,,,20,CNY,20000,,20000,,,,500,,unisex-adult,,,,,,"Sermoon X1 Industrial-Grade 4-in-1 3D Scanner 0.02mm High Blue & NTR Markerless, Full-Color, Suitable for Engineering Manufacturing",,"High Accuracy with NIR Technology:Utilizes NIR technology for precise measurements, ensuring high-fidelity 3D models.","Anti-Shake Tracking System:Equipped with an anti-shake tracking system for stable, uninterrupted scanning.",Wide Scanning Range:Offers a 34+7+1 blue line scanning range for capturing large objects.,"Easy Setup with Scan Bridge: Comes with a Scan Bridge for a simple setup, making 3D scanning accessible to all.","Portable and Lightweight Design:Designed for portability, the Sermoon S1 is lightweight for on-the-go scanning.","Color : Black
+interface type : Usb
+products status : Stock
+software development kit (sdk) : Yes
+Scanning rate : 84000-5,000,000 measurements/s
+Accuracy : Up to 0.05mm
+Volumetric Accuracy : 0.05mm+0.1mm/m
+Scanning Speed : Up to90fps
+Min. scan volume : 5mm x 5mm x 5mm
+Working distance : 170mm-1200mm
+Color Mapping : Supported
+Alignment mode : Marker / Global Marker / Geometry / Texture
+3D imaging camera resolution : 3,000,000
+Color Supplemental Light : 12 blue LEDs
+Outdoor Scanning : Below 100,000 lux
+Marker Recognition Enhancement : 12 blue LEDs
+Wireless Scanning : Supported
+Interface Mode : USB 3.0
+Imput Power : 12V,3A
+Operating temperature : -10°C to 40°",,,,,
