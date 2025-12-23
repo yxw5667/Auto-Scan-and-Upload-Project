@@ -1,0 +1,4 @@
+This project is designed by getting the product info from ERP output to your local device.
+When all product completely get from ERP product database in the ERP, will automatically create a csv file in your local device.
+Login your ERP by using your own account# and password#, input the CSV file, will automatically load into your own product database.
+Note: Product images will downloaded in your disk as well, but when input into your database, needs upload images manually.
